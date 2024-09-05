@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+packages
+*.pfx
+cvm-updater.csproj.user
